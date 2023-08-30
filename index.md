@@ -1,6 +1,10 @@
 # Siddharth Sriram's First CS193 Homework
 
+## Favorite things about cs193
 
+- Gives me tangible CS skills that I will use in my career
+- Is a chill class
+- Only meets once a week
 
 ## Welcome to GitHub Pages
 
